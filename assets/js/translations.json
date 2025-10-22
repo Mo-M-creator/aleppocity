@@ -1,0 +1,411 @@
+{
+  "navbar": {
+    "brand": {
+      "ar": "مدينة حلب",
+      "en": "Aleppo City"
+    },
+    "home": {
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    "events": {
+      "ar": "الفعاليات",
+      "en": "Events"
+    },
+    "about": {
+      "ar": "دليل الموقع",
+      "en": "Site Guide"
+    },
+    "contact": {
+      "ar": "اتصل بنا",
+      "en": "Contact Us"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "ar": "© حقوق النشر 2025 - دليل فعاليات مدينة حلب",
+      "en": "© Copyright 2025 - Aleppo City Events Guide"
+    },
+    "email": {
+      "ar": "البريد: mofidadaikh321@gmail.com",
+      "en": "Email: mofidadaikh321@gmail.com"
+    }
+  },
+  "home": {
+    "featuredTitle": {
+      "ar": "فعاليات بارزة هذا الأسبوع",
+      "en": "Featured Events This Week"
+    },
+    "quickCategories": {
+      "ar": "تصنيفات سريعة",
+      "en": "Quick Categories"
+    },
+    "latestEvents": {
+      "ar": "أحدث الفعاليات",
+      "en": "Latest Events"
+    },
+    "viewAllEvents": {
+      "ar": "عرض كل الفعاليات",
+      "en": "View All Events"
+    },
+    "details": {
+      "ar": "التفاصيل",
+      "en": "Details"
+    },
+    "addToCalendar": {
+      "ar": "أضف للتقويم",
+      "en": "Add to Calendar"
+    }
+  },
+  "events": {
+    "title": {
+      "ar": "قائمة الفعاليات",
+      "en": "Events List"
+    },
+    "searchPlaceholder": {
+      "ar": "ابحث باسم الفعالية أو الوصف",
+      "en": "Search by event name or description"
+    },
+    "allCategories": {
+      "ar": "كل التصنيفات",
+      "en": "All Categories"
+    },
+    "sortNearest": {
+      "ar": "الأقرب",
+      "en": "Nearest"
+    },
+    "sortLatest": {
+      "ar": "الأحدث",
+      "en": "Latest"
+    },
+    "clear": {
+      "ar": "مسح",
+      "en": "Clear"
+    },
+    "noEvents": {
+      "ar": "لا توجد فعاليات حسب الفلترة الحالية.",
+      "en": "No events found with current filters."
+    }
+  },
+  "eventDetail": {
+    "relatedEvents": {
+      "ar": "فعاليات ذات صلة",
+      "en": "Related Events"
+    },
+    "information": {
+      "ar": "معلومات",
+      "en": "Information"
+    },
+    "category": {
+      "ar": "التصنيف:",
+      "en": "Category:"
+    },
+    "location": {
+      "ar": "المكان:",
+      "en": "Location:"
+    },
+    "date": {
+      "ar": "التاريخ:",
+      "en": "Date:"
+    },
+    "share": {
+      "ar": "مشاركة",
+      "en": "Share"
+    },
+    "booking": {
+      "ar": "حجز وهمي",
+      "en": "Mock Booking"
+    },
+    "bookingTitle": {
+      "ar": "حجز مكان (وهمي)",
+      "en": "Book a Spot (Mock)"
+    },
+    "name": {
+      "ar": "الاسم",
+      "en": "Name"
+    },
+    "email": {
+      "ar": "البريد",
+      "en": "Email"
+    },
+    "confirmBooking": {
+      "ar": "تأكيد الحجز",
+      "en": "Confirm Booking"
+    },
+    "bookingSuccess": {
+      "ar": "تم تأكيد الحجز (وهمي). شكرًا",
+      "en": "Booking confirmed (mock). Thank you"
+    },
+    "view": {
+      "ar": "عرض",
+      "en": "View"
+    },
+    "notFound": {
+      "ar": "الفعالية غير موجودة.",
+      "en": "Event not found."
+    }
+  },
+  "about": {
+    "title": {
+      "ar": "نبذة عن الدليل",
+      "en": "About the Guide"
+    },
+    "description": {
+      "ar": "\"دليل فعاليات المدينة\" هو منصة الكترونية تهدف إلى جمع ونشر جميع الفعاليات الثقافية، الرياضية، العائلية والفنية في مكان واحد. رؤيتنا هي بناء جسر بين المنظمين والجمهور، ورسالتنا هي تمكين كل فرد من الوصول بسهولة إلى أنشطة مدينته والمشاركة فيها.",
+      "en": "\"City Events Guide\" is an electronic platform aimed at collecting and publishing all cultural, sports, family and artistic events in one place. Our vision is to build a bridge between organizers and the public, and our mission is to enable everyone to easily access and participate in their city's activities."
+    },
+    "teamTitle": {
+      "ar": "فريق العمل",
+      "en": "Team"
+    },
+    "teamMembers": {
+      "member1": {
+        "name": {
+          "ar": "مفيدة دايخ",
+          "en": "Mofida Daikh"
+        },
+        "role": {
+          "ar": "مدير المشروع",
+          "en": "Project Manager"
+        }
+      },
+      "member2": {
+        "name": {
+          "ar": "أبي الرفاعي",
+          "en": "Abi Al-Rifai"
+        },
+        "role": {
+          "ar": "مصمم واجهة",
+          "en": "UI Designer"
+        }
+      },
+      "member3": {
+        "name": {
+          "ar": "بتول مسوتي",
+          "en": "Batoul Maswati"
+        },
+        "role": {
+          "ar": "مبرمجة",
+          "en": "Developer"
+        }
+      },
+      "member4": {
+        "name": {
+          "ar": "أمل",
+          "en": "Amal"
+        },
+        "role": {
+          "ar": "خبيرة تواصل اجتماعي",
+          "en": "Social Media Expert"
+        }
+      }
+    },
+    "policiesTitle": {
+      "ar": "سياسات نشر الفعاليات",
+      "en": "Event Publishing Policies"
+    },
+    "policiesIntro": {
+      "ar": "نحن نشجع جميع الأفراد والجهات على تقديم فعالياتهم ليتم نشرها في الدليل. حرصًا على جودة المحتوى، نعتمد السياسات التالية:",
+      "en": "We encourage all individuals and organizations to submit their events to be published in the guide. To ensure content quality, we adopt the following policies:"
+    },
+    "policies": {
+      "policy1": {
+        "ar": "يجب أن تكون الفعالية عامة ومفتوحة للمجتمع.",
+        "en": "Events must be public and open to the community."
+      },
+      "policy2": {
+        "ar": "تقديم التفاصيل الأساسية: العنوان، التاريخ، المكان، صورة.",
+        "en": "Provide basic details: title, date, location, image."
+      },
+      "policy3": {
+        "ar": "الابتعاد عن أي محتوى مسيء أو مخالف للقوانين المحلية.",
+        "en": "Avoid any offensive content or violations of local laws."
+      },
+      "policy4": {
+        "ar": "المراجعة والموافقة تتم من قِبل فريق التحرير قبل النشر.",
+        "en": "Review and approval is done by the editorial team before publishing."
+      }
+    },
+    "submitInfo": {
+      "ar": "لتقديم فعالية، يرجى استخدام صفحة",
+      "en": "To submit an event, please use the"
+    },
+    "submitLink": {
+      "ar": "اتصل بنا",
+      "en": "Contact Us"
+    },
+    "submitInfoEnd": {
+      "ar": "وإرسال تفاصيل الحدث. سنقوم بمراجعتها والرد في أقرب وقت.",
+      "en": "page and send the event details. We will review them and respond as soon as possible."
+    }
+  },
+  "contact": {
+    "title": {
+      "ar": "اتصل بنا",
+      "en": "Contact Us"
+    },
+    "nameLabel": {
+      "ar": "الاسم",
+      "en": "Name"
+    },
+    "emailLabel": {
+      "ar": "البريد الإلكتروني",
+      "en": "Email"
+    },
+    "messageLabel": {
+      "ar": "الرسالة",
+      "en": "Message"
+    },
+    "submit": {
+      "ar": "إرسال",
+      "en": "Send"
+    },
+    "successMessage": {
+      "ar": "تم إرسال الرسالة بنجاح. شكرًا لتواصلك معنا.",
+      "en": "Message sent successfully. Thank you for contacting us."
+    },
+    "errorRequired": {
+      "ar": "يرجى ملء الحقول المطلوبة.",
+      "en": "Please fill in the required fields."
+    },
+    "errorEmail": {
+      "ar": "صيغة البريد غير صحيحة.",
+      "en": "Invalid email format."
+    }
+  },
+  "categories": {
+    "تاريخي": {
+      "ar": "تاريخي",
+      "en": "Historical"
+    },
+    "مأكولات": {
+      "ar": "مأكولات",
+      "en": "Food"
+    },
+    "ثقافة": {
+      "ar": "ثقافة",
+      "en": "Culture"
+    },
+    "عائلي": {
+      "ar": "عائلي",
+      "en": "Family"
+    }
+  },
+  "eventData": [
+    {
+      "id": "e1",
+      "title": {
+        "ar": "جولة تاريخية لا تنسى",
+        "en": "Unforgettable Historical Tour"
+      },
+      "location": {
+        "ar": "وسط المدينة",
+        "en": "Downtown"
+      },
+      "category": {
+        "ar": "تاريخي",
+        "en": "Historical"
+      },
+      "shortDesc": {
+        "ar": "جولة تاريخية من قلب قلعة حلب الاثرية.",
+        "en": "Historical tour from the heart of Aleppo's archaeological citadel."
+      },
+      "fullDesc": {
+        "ar": "وصف كامل للقلعة مع تفاصيل المكان وبرنامج اليوم.",
+        "en": "Full description of the citadel with location details and daily program."
+      }
+    },
+    {
+      "id": "e2",
+      "title": {
+        "ar": "مطعم عريق",
+        "en": "Heritage Restaurant"
+      },
+      "location": {
+        "ar": "امام قلعة حلب",
+        "en": "In front of Aleppo Citadel"
+      },
+      "category": {
+        "ar": "مأكولات",
+        "en": "Food"
+      },
+      "shortDesc": {
+        "ar": "مذاق رائع مع اطلالة ساحرة تخطف الانفاس.",
+        "en": "Wonderful taste with breathtaking views."
+      },
+      "fullDesc": {
+        "ar": "مطعم عريق يضم اشهى المأكولات الحلبية بالاضافة الى حفلات موسيقية تضم اشهر الفنانين.",
+        "en": "A heritage restaurant featuring the most delicious Aleppan cuisine along with musical concerts featuring the most famous artists."
+      }
+    },
+    {
+      "id": "e3",
+      "title": {
+        "ar": "معرض الفن المتنوع",
+        "en": "Diverse Art Exhibition"
+      },
+      "location": {
+        "ar": "قاعة المعارض",
+        "en": "Exhibition Hall"
+      },
+      "category": {
+        "ar": "ثقافة",
+        "en": "Culture"
+      },
+      "shortDesc": {
+        "ar": "تجتمع مختلف الاعمال والشركات الصغيرة لكي تبرز جزء من اعمالها.",
+        "en": "Various works and small businesses come together to showcase part of their work."
+      },
+      "fullDesc": {
+        "ar": "عرض العديد من التشكيلات والفنون والمأكولات لدعم المشاريع الصغيرة.",
+        "en": "Display of many art forms, crafts and foods to support small projects."
+      }
+    },
+    {
+      "id": "e4",
+      "title": {
+        "ar": "جولة في الهواء الطلق",
+        "en": "Outdoor Tour"
+      },
+      "location": {
+        "ar": "الحديقة العامة",
+        "en": "Public Park"
+      },
+      "category": {
+        "ar": "عائلي",
+        "en": "Family"
+      },
+      "shortDesc": {
+        "ar": "جولة مشي او ركض في الهواء الطلق.",
+        "en": "Walking or jogging tour in the open air."
+      },
+      "fullDesc": {
+        "ar": "تعتبر الحديقة العامة رمز للترفيه والمناسبات السعيدة العائلية بجانب العديد من المناظر الخلابة المحيطة.",
+        "en": "The public park is a symbol of entertainment and happy family occasions alongside many stunning surrounding views."
+      }
+    },
+    {
+      "id": "e5",
+      "title": {
+        "ar": "سوق المدينة",
+        "en": "City Market"
+      },
+      "location": {
+        "ar": "الاحياء الشرقية",
+        "en": "Eastern Districts"
+      },
+      "category": {
+        "ar": "عائلي",
+        "en": "Family"
+      },
+      "shortDesc": {
+        "ar": "اسواق متنوعة من جميع الاصناف.",
+        "en": "Diverse markets of all kinds."
+      },
+      "fullDesc": {
+        "ar": "تسوق عائلي ممتع.",
+        "en": "Enjoyable family shopping."
+      }
+    }
+  ]
+}
