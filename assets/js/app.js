@@ -304,7 +304,9 @@ function applyLanguage(lang) {
     // Update toggle button
     const langToggle = document.getElementById('lang-toggle');
     if (langToggle) {
-        if (lang === 'en') {
+        // Show the current language flag prominently:
+        // active => Arabic (left flag visible), not active => English (right flag visible)
+        if (lang === 'ar') {
             langToggle.classList.add('active');
         } else {
             langToggle.classList.remove('active');
